@@ -47,6 +47,8 @@
  */
 import 'zone.js';  // Included with Angular CLI.
 
+import 'rxjs/add/operador/map';
+import 'rxjs/add/operador/catch';
 
 /***************************************************************************************************
  * APPLICATION IMPORTS
