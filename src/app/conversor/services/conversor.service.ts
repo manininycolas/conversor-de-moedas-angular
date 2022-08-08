@@ -26,7 +26,7 @@ export class ConversorService {
   }
   
   /**
-   * Retorna a cotação De Destino dado uma response
+   * Retorna a cotação De Destino dado uma response.
    * 
    * @param conversaoResponse Conversaoresponse
    * @param conversao Conversao
@@ -42,7 +42,7 @@ export class ConversorService {
   }
 
   /**
-   * Retorna a cotação De Origem dado uma response
+   * Retorna a cotação De Origem dado uma response.
    * 
    * @param conversaoResponse Conversaoresponse
    * @param conversao Conversao
