@@ -1,12 +1,19 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
+import { ConversorComponent } from './components';
+
 
 
 @NgModule({
-  declarations: [],
+  declarations: [
+    ConversorComponent
+  ],
   imports: [
     CommonModule
+  ],
+  exports: [
+    ConversorComponent
   ]
 })
 export class ConversorModule { }
