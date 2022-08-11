@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-conversor',
+  selector: 'conversor-component',
   templateUrl: './conversor.component.html',
   styleUrls: ['./conversor.component.css']
 })
